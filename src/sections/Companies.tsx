@@ -40,7 +40,7 @@ export const Companies = () => {
         </div>
       </div>
       <div className=' container'>
-        <div className='flex justify-center items-center mt-4 lg:mt-16 pb-8 lg:mx-20'>
+        <div className='flex justify-center items-center mt-8 lg:mt-16 pb-8 lg:mx-20'>
               <p className=' text-black items-center text-md font-medium'>
               In the game, players will face challenges such as identifying critical assists, evaluating the security implications of emerging technologies, 
               selecting trustworthy technology vendors, and addressing challenges in securely integrating cutting-edge technologies. 
