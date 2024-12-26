@@ -24,7 +24,7 @@ export const Team = () => {
                 className="object-contain hover:scale-110 rounded-full w-[50] h-[50] lg:w-[200] lg:h-[200]"
               />
             </div>
-            <a href="https://www.linkedin.com/in/marta-f-arroyabe/">
+            <a  href="https://www.linkedin.com/in/marta-f-arroyabe/">
               <h1 className='text-center text-black text-md font-semibold p-2 hover:text-slate-500'>
                 Dr. Marta F. Arroyabe
               </h1>
