@@ -9,7 +9,7 @@ export const Header = () => {
           <div className=''>
             <LogoIcon className="h-8 w-86"/>
           </div>
-          <div className='text-white'>
+          <div className='text-white space-x-4'>
             
             <span>Menu</span>
             <button>Play</button>
