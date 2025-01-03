@@ -20,7 +20,7 @@ export const Hero = () => {
 
             <div className="mt-6 justify-center items-center text-center md:flex lg:justify-start lg:flex ">
               <a
-                href="https://www.essex.ac.uk/research-projects/cyber-security-in-uk-smes"
+                href="https://www.essex.ac.uk/research-projects/cyber-security-in-uk-smes"  target="_blank"
                 className="px-4 py-2 text-black cursor-pointer hover:text-[#4E2D6C] inline-flex justify-center items-center rounded-lg border-4 border-[#4E2D6C] hover:border-red-500"
               >
                 Theoretical Project
