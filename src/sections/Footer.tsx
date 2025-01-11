@@ -20,7 +20,7 @@ export const Footer = () => {
         </div>
       </div>
       <div className="flex justify-center items-center text-center lg:mt-12">
-        <h1 className=" text-white">© University of Essex, 2024</h1>
+        <h1 className=" text-white">© University of Essex, 2025</h1>
       </div>
     </div>
   </footer>;
