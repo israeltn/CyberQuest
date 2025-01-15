@@ -41,8 +41,12 @@ export const Header = () => {
           {/* Menu */}
           <div className="text-white space-x-8">
             <span>Home</span>
+
             <div className=" border-2  text-white font-bold hover:text-white w-24 p-1 rounded-lg inline-flex justify-center items-center hover:border-red-500 ">
+              
+              <a href="https://s3.eu-west-2.amazonaws.com/cyberquest.alpha.test/index.html" target="_blank">
               <button>Play Game</button>
+              </a>
             </div>
           </div>
         </div>
