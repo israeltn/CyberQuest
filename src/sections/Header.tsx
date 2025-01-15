@@ -44,8 +44,11 @@ export const Header = () => {
 
             <div className=" border-2  text-white font-bold hover:text-white w-24 p-1 rounded-lg inline-flex justify-center items-center hover:border-red-500 ">
               
-              <a href="https://s3.eu-west-2.amazonaws.com/cyberquest.alpha.test/index.html" target="_blank">
-              <button>Play Game</button>
+                           <a
+                href="https://s3.eu-west-2.amazonaws.com/cyberquest.alpha.test/index.html"  target="_blank"
+                className="px-4 py-2 text-black cursor-pointer hover:text-[#4E2D6C] inline-flex justify-center items-center rounded-lg border-4 border-[#4E2D6C] hover:border-red-500"
+              >
+                <button>Play Game</button>
               </a>
             </div>
           </div>
