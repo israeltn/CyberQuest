@@ -45,7 +45,7 @@ export const Header = () => {
             <div className=" border-2  text-white font-bold hover:text-white w-22 p-1 rounded-lg inline-flex justify-center items-center hover:border-red-500 ">
               
                            <a
-                href="https://s3.eu-west-2.amazonaws.com/cyberquest.alpha.test/index.html"  target="_blank"
+                href="http://s3.eu-west-2.amazonaws.com/cyberquest.alpha.test/index.html"  target="_blank"
                 
               >
                 <button>Play Game</button>
